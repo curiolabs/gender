@@ -1,0 +1,21 @@
+{
+    "name": "curiolabs/gender",
+    "description": "My first Composer project",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "CurioLabs",
+            "email": "steven.p.wright@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-0": {
+          "Gender": "src/"
+        }
+    }
+}
