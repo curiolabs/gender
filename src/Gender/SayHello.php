@@ -1,6 +1,6 @@
 <?php
 
-namespace Gender;
+namespace CurioLabs\Gender;
 
 class SayHello
 {
