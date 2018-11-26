@@ -2,9 +2,9 @@
 
 namespace CurioLabs\Gender;
 
-class SayHello
+class Gender
 {
-    public static function world()
+    public static function hello()
     {
         return 'Hello World, Composer!';
     }
